@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AsmaaMo7sen
-- A senior year student ar faculty of engineering , Electronics and Communication department , Mansoura University .
+- A senior year student at faculty of engineering , Electronics and Communication department , Mansoura University .
 - 👀 I am interested in Embedded systems software develpment .
 
 <!---
