@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AsmaaMo7sen
-- A senior year student at faculty of engineering , Electronics and Communication department , Mansoura University .
-- 👀 I am interested in Embedded systems software development .
-
 ### Hi there 👋, Asmaa Mohsen 
 #### Embedded Software Developer
-![Embedded Software Developer](https://wallpapercave.com/w/wp5861473)
+
 
 Hello there ^^ 
 I am Asmaa , a fresh graduate from faculty of Engineering , Electronics and Communication Department , Mansoura University .
@@ -13,7 +9,6 @@ I am Asmaa , a fresh graduate from faculty of Engineering , Electronics and Comm
 
 Skills: C programming , Layered Architecture , Software development ,
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: asma2mo7sen2000@gamil.com 
 
 
