@@ -8,7 +8,6 @@ I am Asmaa , a fresh graduate from faculty of Engineering , Electronics and Comm
 
 Skills: C programming , Layered Architecture , Software development ,
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: asma2mo7sen2000@gamil.com 
 
 
